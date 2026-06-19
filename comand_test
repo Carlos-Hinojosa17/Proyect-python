@@ -1,0 +1,4 @@
+// test de conexion a base de datos
+
+PYTHONPATH=. python test/test_connection.py
+
